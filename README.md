@@ -134,6 +134,3 @@
 - `tar -xzvf nome_do_arquivo_compactado -C nome_do_diretorio`: Descompactar com `tar`, especificando o diretório de destino.
 - `zip -r nome_do_arquivo_a_ser_compactado.zip nome_do_diretorio_ou_arquivo`: Compactar com `zip`.
 - `unzip nome_do_arquivo_compactado`: Descompactar com `zip`.
-
-
-### Teste
